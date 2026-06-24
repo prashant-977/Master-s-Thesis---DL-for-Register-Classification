@@ -1,4 +1,7 @@
 # Master-s-Thesis---DL-for-Register-Classification
+
+**Following were the type of registers used for this task**:
+
 1. Narrative Register
 
 - NE: News Report
